@@ -1,0 +1,4 @@
+﻿TXT2
+SinsArchiveVersion 197
+Version 0
+enabledModNameCount 0
